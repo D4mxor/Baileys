@@ -1,10 +1,10 @@
 {
-    "name": "@skyzopedia/baileys-mod",
+    "name": "@fadeldev/baileys-mod",
     "version": "8.0.2",
-    "description": "WhatsApp API Modification By Skyzopedia",
+    "description": "WhatsApp API Modification By D4mxor",
     "keywords": [
         "whatsapp",
-        "laurine-wabot",
+        "D4mxor",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
@@ -17,7 +17,7 @@
         "url": "https://www.npmjs.com/package/@whiskeysockets/baileys"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "D4mxor",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "npm:@skyzopedia/libsignal-node",
+        "libsignal": "npm:@fadeldev/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
